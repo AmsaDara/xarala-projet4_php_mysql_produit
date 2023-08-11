@@ -1,0 +1,48 @@
+caption {
+    text-align: center;
+    border: 1px solid blue;
+    font-size: 34px;
+    color: black;
+    background-color: #0d6efd;
+}
+.a1{
+    text-align: center;
+    border: 1px solid green;
+    font-size: 34px;
+    color: black;
+    background-color: green;
+}
+.juo{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ion1{
+    font-size: 34px;
+    color: blue;
+}
+.ion2{
+    font-size: 34px;
+    color: red;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #0d6efd;
+    text-align: center;
+    color: #000;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.b1{
+    width: 32px;
+    height: 32px;
+}
+
+.ici {
+    text-align: center;
+    color: #0d6efd;
+}
